@@ -12,7 +12,7 @@ def home():
         </head>
         <body>
             <h1>Hello! 👋</h1>
-            <h2>This is my Dockerized Web Application</h2>
+            <h2>This is my CI/CD GitHub Actions Application</h2>
             <p>Project created for my internship.</p>
         </body>
     </html>
